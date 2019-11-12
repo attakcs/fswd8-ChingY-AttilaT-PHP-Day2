@@ -1,0 +1,11 @@
+body{
+	background-image: url('https://assets.pcmag.com/media/images/404744-mozilla-firefox.jpg');
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover; 
+}
+
+h1{
+	color:  orange;
+}

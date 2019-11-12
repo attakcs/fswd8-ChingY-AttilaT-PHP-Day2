@@ -1,0 +1,11 @@
+body{
+	background-image: url('https://images.filehippo.net/img/ex/8683__google_chrome%20_for_mac_1_2_12_16.png');
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover; 
+}
+
+h1{
+	color:  green;
+}
